@@ -52,7 +52,8 @@ The notebook will perform the following steps:
 
 This project primarily consists of a single Google Colab notebook.
 
-. ├── Resume_Data_Extraction_and_Processing.ipynb # The main notebook └── Sample data.csv # Input CSV file
+. ├── Resume_Data_Extraction_and_Processing.ipynb # The main notebook 
+  └── Sample data.csv # Input CSV file
 
 
 

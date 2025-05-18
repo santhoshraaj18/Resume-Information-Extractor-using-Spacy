@@ -1,6 +1,5 @@
 # Resume-Information-Extractor-using-Spacy
 
-# Resume Data Extraction and Processing
 
 This project utilizes a custom Spacy model to extract key information from resumes, specifically focusing on data read from a CSV file. The process involves loading a pre-trained Spacy model, reading resume data from a CSV, applying the model to identify and extract relevant entities, and organizing the extracted information for further use.
 
